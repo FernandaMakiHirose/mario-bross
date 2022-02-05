@@ -1,4 +1,4 @@
-Super Mario Bros Level 1
+Super Mario Bros Nível 1
 =============
 
 ![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
@@ -16,7 +16,7 @@ Para instalar as dependências Python 2.x:
 
 	pip install -r requirements.txt
 
-Ver o tutorial no [Youtube](http://www.youtube.com/watch?v=HBbzYKMfx5Y)
+Ver o tutorial no [Youtube](http://www.youtube.com/watch?v=HBbzYKMfx5Y).
 
 
   

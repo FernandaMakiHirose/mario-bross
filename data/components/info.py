@@ -124,8 +124,8 @@ class OverheadInfo(object):
 
 
         self.create_label(self.mario_label, 'MARIO', 75, 30)
-        self.create_label(self.world_label, 'WORLD', 450, 30)
-        self.create_label(self.time_label, 'TIME', 625, 30)
+        self.create_label(self.world_label, 'MUNDO', 450, 30)
+        self.create_label(self.time_label, 'TEMPO', 625, 30)
         self.create_label(self.stage_label, '1-1', 472, 55)
 
         self.label_list = [self.mario_label,
@@ -139,7 +139,7 @@ class OverheadInfo(object):
         world_label = []
         number_label = []
 
-        self.create_label(world_label, 'WORLD', 280, 200)
+        self.create_label(world_label, 'MUNDO', 280, 200)
         self.create_label(number_label, '1-1', 430, 200)
 
         self.center_labels = [world_label, number_label]
@@ -219,8 +219,8 @@ class OverheadInfo(object):
         top = []
         top_score = []
 
-        self.create_label(player_one_game, '1 PLAYER GAME', 272, 360)
-        self.create_label(player_two_game, '2 PLAYER GAME', 272, 405)
+        self.create_label(player_one_game, 'JOGADOR 1', 272, 360)
+        self.create_label(player_two_game, 'JOGADOR 2', 272, 405)
         self.create_label(top, 'TOP - ', 290, 465)
         self.create_label(top_score, '000000', 400, 465)
 
