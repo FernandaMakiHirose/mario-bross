@@ -1,4 +1,4 @@
-## Como jogar? 
+# <p align="center"> Como jogar?</p> 
 'a' para pular <br>
 's' para ação (fireball, correr)
 
