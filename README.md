@@ -1,5 +1,3 @@
-![Screenshot_1](https://user-images.githubusercontent.com/72028645/152652552-6ce6d41b-b1ac-4fde-9a2c-840a2498f342.png)
-
 ## Como jogar? 
 'a' para pular <br>
 's' para ação (fireball, correr)
@@ -12,6 +10,8 @@ Pygame 1.9.2 (Python 3) <br>
 Para instalar as dependências Python 2.x:
 
 	pip install -r requirements.txt
+	
+![Screenshot_1](https://user-images.githubusercontent.com/72028645/152652552-6ce6d41b-b1ac-4fde-9a2c-840a2498f342.png)
 
 
   
